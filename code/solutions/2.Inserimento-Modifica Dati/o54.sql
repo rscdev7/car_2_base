@@ -1,0 +1,1 @@
+UPDATE Annunci_Ricambi SET Cancellato=TRUE WHERE Cod_Annuncio=@cod;
